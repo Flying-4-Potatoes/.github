@@ -1,6 +1,6 @@
 ## Hi there 👋 🍟🍟🍟🍟
 
-🙋‍♀️ We are **Flying-4-Potatoes("말하는 감자")**, the research group of [@KNU-BrainAI](https://github.com/KNU-BrainAI)
+🙋‍♀️ We are **SKT AI FELLOWSHIP 4TH TEAM KEANU**, the research group of [@KNU-BrainAI](https://github.com/KNU-BrainAI)
 
 <!--
 
